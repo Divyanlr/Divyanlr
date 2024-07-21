@@ -1,3 +1,4 @@
+![logo](https://github.com/Divyanlr/Divyanlr/blob/main/logo.gif)
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate Senior software developer from India</h3>
 
