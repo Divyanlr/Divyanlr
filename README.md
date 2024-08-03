@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanlr&label=Profile%20views&color=0e75b6&style=flat" alt="divyanlr" /> </p>
 
-- 🧑‍💻 I’m currently working on **DXC Technology**
+- 🧑‍💻 I’m currently working at **DXC Technology**
 - 📫 How to reach me **https://www.linkedin.com/in/divya-angthayal-b90a86148/**
   
 - ⚡ Fun fact **I'm not just a developer, but also an artist! I love combining my technical skills with creativity to build beautiful and functional web applications.**
