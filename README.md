@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanlr&" alt="divyanlr" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/divyanlr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="AUTO" width="160" alt="https://buymeacoffee.com/divyanlr" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/divyanlr" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="AUTO" width="160" alt="https://buymeacoffee.com/divyanlr" /></a></p><br><br>
 
 
 
